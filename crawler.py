@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+
+
 # 내장함수
 from urllib.request import urlopen
 # 명령행 파싱 모듈 argparse 모듈 사용
